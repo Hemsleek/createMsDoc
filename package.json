@@ -1,0 +1,23 @@
+{
+  "name": "convert_ms_doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "parse": "node parser.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemsleek/createMsDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemsleek/createMsDoc/issues"
+  },
+  "homepage": "https://github.com/Hemsleek/createMsDoc#readme"
+}
